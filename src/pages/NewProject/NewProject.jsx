@@ -1,3 +1,3 @@
 export default function NewProject() {
-    return <p>New Project</p>;
+    return <h1>New Project</h1>;
 };
